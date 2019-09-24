@@ -1,0 +1,15 @@
+{
+  "name": "Assignment 6: Probability, Simulation, Estimation, and Assessing Models",
+  "endpoint": "cal/data8/sp19/hw06",
+  "src": [
+    "lp06.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
